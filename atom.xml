@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <author>
+    <name>韓桑_sakura</name>
+  </author>
+  <generator uri="https://hexo.io/">Hexo</generator>
+  <icon>https://hansang.lingso.top/icon.png</icon>
+  <id>https://hansang.lingso.top/</id>
+  <link href="https://hansang.lingso.top/" rel="alternate"/>
+  <link href="https://hansang.lingso.top/atom.xml" rel="self"/>
+  <rights>All rights reserved 2026, 韓桑_sakura</rights>
+  <title>韓桑のBlog</title>
+  <updated>2026-06-08T16:50:11.847Z</updated>
+  <entry>
+    <author>
+      <name>韓桑_sakura</name>
+    </author>
+    <id>https://hansang.lingso.top/2026/06/07/%E4%B8%9C%E8%8E%9E%E5%B8%82%E7%AC%AC%E4%B8%83%E9%AB%98%E7%BA%A7%E4%B8%AD%E5%AD%A6%E8%AE%BE%E8%AE%A1%E6%9C%AA%E6%9D%A5%E5%B1%95%E7%A4%BA%E9%A1%B9%E7%9B%AE/</id>
+    <link href="https://hansang.lingso.top/2026/06/07/%E4%B8%9C%E8%8E%9E%E5%B8%82%E7%AC%AC%E4%B8%83%E9%AB%98%E7%BA%A7%E4%B8%AD%E5%AD%A6%E8%AE%BE%E8%AE%A1%E6%9C%AA%E6%9D%A5%E5%B1%95%E7%A4%BA%E9%A1%B9%E7%9B%AE/"/>
+    <published>2026-06-07T12:20:42.000Z</published>
+    <summary>
+      <![CDATA[<div align = center>
+	<img alt="东莞七中" src="/images/东莞七中.png"/>
+    <p>名称：基于开发板及大语言模型的人脸识别及监控系统</p>
+    <p>参与人员：韩钧全、张杰、何文逸</p>
+    <img]]>
+    </summary>
+    <title>基于开发板及大语言模型的人脸识别及监控系统</title>
+    <updated>2026-06-08T16:50:11.847Z</updated>
+  </entry>
+</feed>
